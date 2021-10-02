@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Saikat2407
 - 👀 I’m interested in coding, AI ML, and Startups.
 - 🌱 I’m currently learning java, c, and python.
-- 💞️ I’m looking to collaborate on startup.
+- 💞️ I’m looking to collaborate in various project in any startup.
 - 📫 How to reach me either by email or on insta, so here you go s.nayek2407@gmail.com & insta id - thehonestlier, linkedin - https://www.linkedin.com/in/saikat-nayek-766729205/
 
 <!---
