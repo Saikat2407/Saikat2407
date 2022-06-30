@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **Flutter, Blockchain Development**
 
-- 👯 I’m looking to collaborate on **Startup**
+- 👯 I’m looking to collaborate with **Startup**
 
-- 🤝 I’m looking for help with **Blockchain technology**
+- 🤝 I’m looking for help in **Blockchain technology**
 
 - 📫 How to reach me **s.nayek2407@gmail.com**
 
