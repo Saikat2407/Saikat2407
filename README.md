@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/thissaikat" target="blank"><img src="https://img.shields.io/twitter/follow/thissaikat?logo=twitter&style=for-the-badge" alt="thissaikat" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter, Blockchain Development**
+- 🌱 I’m currently learning **Flutter, DevOps**
 
-- 👯 I’m looking to collaborate with **Startup**
+- 👯 I’m looking to collaborate with **Startup and Cloud Techies**
 
-- 🤝 I’m looking for help in **Blockchain technology**
+- 🤝 I’m looking for help in **Cloud**
 
 - 📫 How to reach me **s.nayek2407@gmail.com**
 
