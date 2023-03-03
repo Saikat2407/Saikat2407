@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saikat Nayek</h1>
-<h3 align="center">A passionate Programmer and a Flutter developder from India</h3>
+<h3 align="center">Cloud, DevOps & Flutter developder from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saikat2407&label=Profile%20views&color=0e75b6&style=flat" alt="saikat2407" /> </p>
 
